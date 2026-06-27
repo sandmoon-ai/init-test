@@ -1,0 +1,4 @@
+stages:
+  - name: 需求确认
+    executor: openclaw
+    human_approval: true
